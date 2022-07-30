@@ -1,0 +1,1 @@
+This lab is all about bit-matrices. These are matrices whose values can only be zero or one, and arithmetic is modulo 2. You would be surprised how powerful these are. They are used in fault-tolerant storage applications, among other things, which is why I am fond of them.
